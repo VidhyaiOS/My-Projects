@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11232" systemVersion="15G31" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Timings" representedClassName=".Timings" syncable="YES">
+        <attribute name="breakTiming" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sno" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="startTiming" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="stopTiming" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalTiming" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Timings" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>
